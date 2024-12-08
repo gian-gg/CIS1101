@@ -1,3 +1,3 @@
 ## CIS1101
 
-A repository for my codes in the CIS1101 course.
+A dedicated repository showcasing some of my codes and projects for the CIS1101 course.
