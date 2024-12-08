@@ -1,2 +1,5 @@
 output
+.vscode
+
 .DS_Store
+salaryDistribution.c
